@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Водный_мир.Properties {
+namespace Converter.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Водный_мир.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Водный_мир.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Converter.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace Водный_мир.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap water {
+        internal static System.Drawing.Bitmap fast_internet {
             get {
-                object obj = ResourceManager.GetObject("water", resourceCulture);
+                object obj = ResourceManager.GetObject("fast-internet", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,29 @@ namespace Водный_мир.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap water_wat {
+        internal static System.Drawing.Bitmap p0c5s9j5 {
             get {
-                object obj = ResourceManager.GetObject("water_wat", resourceCulture);
+                object obj = ResourceManager.GetObject("p0c5s9j5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap speed {
+            get {
+                object obj = ResourceManager.GetObject("speed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap weight_background {
+            get {
+                object obj = ResourceManager.GetObject("weight_background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

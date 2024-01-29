@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VStudio\\Projects\\Водный мир\\Водный мир.csproj",
-      "projectName": "Водный мир",
-      "projectPath": "D:\\VStudio\\Projects\\Водный мир\\Водный мир.csproj",
+      "projectUniqueName": "D:\\VStudio\\Projects\\Converter\\Converter.csproj",
+      "projectName": "Converter",
+      "projectPath": "D:\\VStudio\\Projects\\Converter\\Converter.csproj",
       "packagesPath": "C:\\Users\\tatia\\.nuget\\packages\\",
-      "outputPath": "D:\\VStudio\\Projects\\Водный мир\\obj\\",
+      "outputPath": "D:\\VStudio\\Projects\\Converter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VStudio\\VStudioSDK\\NuGetPackages"
